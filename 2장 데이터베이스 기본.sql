@@ -45,7 +45,7 @@
         );
 
 //실습2-1. 데이터 추가
-    INSERT INTO USER2 VALUES ('A101', '김유신', '010-1234-1111', 25);
+    INSERT INTO USER2 VALUES ('A101', '김유신', '010-1234-1111', 22);
     INSERT INTO USER2 VALUES ('A102', '김춘추', '010-1234-2222', 23);
     INSERT INTO USER2 VALUES ('A103', '장보고', '010-1234-3333', 32);
     INSERT INTO USER2 (id, name, age) VALUES ('A104', '강감찬', 45);
